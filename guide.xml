@@ -1,0 +1,1855 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELEANTILLAS">
+    <display-name lang="es">TELEANTILLAS</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/2_de_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TELEMICRO">
+    <display-name lang="es">TELEMICRO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/5_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="ANTENA 7">
+    <display-name lang="es">ANTENA 7</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/7_republica_dominica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="COLOR VISION HD">
+    <display-name lang="es">COLOR VISION HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="COLOR VISION">
+    <display-name lang="es">COLOR VISION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/9_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TELESISTEMA">
+    <display-name lang="es">TELESISTEMA</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/telesistemas_11-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TELECENTRO">
+    <display-name lang="es">TELECENTRO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="DIGITAL 15">
+    <display-name lang="es">DIGITAL 15</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/15_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TELEUNIVERSO">
+    <display-name lang="es">TELEUNIVERSO</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/29_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="CDN37">
+    <display-name lang="es">CDN37</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/37_de_republica_dominicana-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="TELEUNION">
+    <display-name lang="es">TELEUNION</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/teleunion-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200904003000 -0500" stop="20200904013000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Final Deportivo</title>
+  </programme>
+  <programme start="20200904013000 -0500" stop="20200904023000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20200904023000 -0500" stop="20200904033000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Al Otro Lado del Paraíso</title>
+  </programme>
+  <programme start="20200904033000 -0500" stop="20200904043000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Al Otro Lado del Paraíso</title>
+  </programme>
+  <programme start="20200904043000 -0500" stop="20200904053000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Mujeres al borde</title>
+  </programme>
+  <programme start="20200904053000 -0500" stop="20200904060000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904070000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Panorama Mundial</title>
+  </programme>
+  <programme start="20200904070000 -0500" stop="20200904080000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Uno + Uno</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904090000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Al Rojo Vivo</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904100000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Café CNN</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="TELEANTILLAS">
+    <title lang="es">A cada quien su santo</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Desafio india</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904130000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Caso cerrado 2018</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904133000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Telenoticias emisión vesp</title>
+  </programme>
+  <programme start="20200904133000 -0500" stop="20200904134500 -0500" channel="TELEANTILLAS">
+    <title lang="es">1/4 Deportivo</title>
+  </programme>
+  <programme start="20200904134500 -0500" stop="20200904140000 -0500" channel="TELEANTILLAS">
+    <title lang="es">A dos camaras</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904160000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Amor Prohibido</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="TELEANTILLAS">
+    <title lang="es">A cada quien su santo</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="TELEANTILLAS">
+    <title lang="es">La isla</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Festival del Humor 2016</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Caso cerrado 2018</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Informativos Teleantillas</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Al Otro Lado del Paraíso</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Barrio adentro</title>
+  </programme>
+  <programme start="20200905033000 -0500" stop="20200905053000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Cero excusas</title>
+  </programme>
+  <programme start="20200905053000 -0500" stop="20200905060000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Ser Humano</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Battlestar galactica</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905080000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Voces</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Battlestar galactica</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905110000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Cine infantil</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905130000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Cine infantil 2a función</title>
+  </programme>
+  <programme start="20200905130000 -0500" stop="20200905160000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Super sabados 1ra funcion</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905190000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Major League Baseball</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905210000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Marvel's Agents of S.H.I.E.L.D</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905230000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Major League Baseball</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906010000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Zona Hollywood</title>
+  </programme>
+  <programme start="20200906230000 -0500" stop="20200907010000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Zona Hollywood</title>
+  </programme>
+  <programme start="20200907010000 -0500" stop="20200907020000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Highlander, El Inmortal</title>
+  </programme>
+  <programme start="20200907020000 -0500" stop="20200907030000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Confabulaciones</title>
+  </programme>
+  <programme start="20200907030000 -0500" stop="20200907040000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Esta misma semana</title>
+  </programme>
+  <programme start="20200907040000 -0500" stop="20200907043000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Ser Humano</title>
+  </programme>
+  <programme start="20200907043000 -0500" stop="20200907050000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20200907050000 -0500" stop="20200907080000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Revista 110</title>
+  </programme>
+  <programme start="20200907090000 -0500" stop="20200907100000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Trialogo</title>
+  </programme>
+  <programme start="20200907100000 -0500" stop="20200907104500 -0500" channel="TELEANTILLAS">
+    <title lang="es">Battlestar galactica</title>
+  </programme>
+  <programme start="20200907104500 -0500" stop="20200907120000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Cine familiar</title>
+  </programme>
+  <programme start="20200907120000 -0500" stop="20200907130000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Cine familiar II</title>
+  </programme>
+  <programme start="20200907130000 -0500" stop="20200907160000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Major League Baseball</title>
+  </programme>
+  <programme start="20200907160000 -0500" stop="20200907190000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Major League Baseball</title>
+  </programme>
+  <programme start="20200907190000 -0500" stop="20200907200000 -0500" channel="TELEANTILLAS">
+    <title lang="es">Sin cortes... como en el cine</title>
+  </programme>
+  <programme start="20200904003000 -0500" stop="20200904013000 -0500" channel="TELEMICRO">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20200904013000 -0500" stop="20200904023000 -0500" channel="TELEMICRO">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20200904023000 -0500" stop="20200904050000 -0500" channel="TELEMICRO">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904060000 -0500" channel="TELEMICRO">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904080000 -0500" channel="TELEMICRO">
+    <title lang="es">Matinal</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904110000 -0500" channel="TELEMICRO">
+    <title lang="es">Despierta América</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="TELEMICRO">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904130000 -0500" channel="TELEMICRO">
+    <title lang="es">Te doy la vida</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904140000 -0500" channel="TELEMICRO">
+    <title lang="es">Apuesta por un Amor</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904150000 -0500" channel="TELEMICRO">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="TELEMICRO">
+    <title lang="es">Piel de otoño</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="TELEMICRO">
+    <title lang="es">La Mujer del Vendaval</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="TELEMICRO">
+    <title lang="es">El Gordo y la Flaca</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="TELEMICRO">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="TELEMICRO">
+    <title lang="es">Serie</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="TELEMICRO">
+    <title lang="es">La Sombra del Pasado</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="TELEMICRO">
+    <title lang="es">La Piloto</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="TELEMICRO">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="TELEMICRO">
+    <title lang="es">El Reperpero</title>
+  </programme>
+  <programme start="20200905050000 -0500" stop="20200905060000 -0500" channel="TELEMICRO">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="TELEMICRO">
+    <title lang="es">La Escuelita V.I.P</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905080000 -0500" channel="TELEMICRO">
+    <title lang="es">Una familia de diez</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="TELEMICRO">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="TELEMICRO">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="TELEMICRO">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="TELEMICRO">
+    <title lang="es">Q' lo que hay</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905140000 -0500" channel="TELEMICRO">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905160000 -0500" channel="TELEMICRO">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905180000 -0500" channel="TELEMICRO">
+    <title lang="es">Cine tres</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="TELEMICRO">
+    <title lang="es">Mayans M.C</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="TELEMICRO">
+    <title lang="es">El show de la comedia</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905220000 -0500" channel="TELEMICRO">
+    <title lang="es">Boca de piano es un show</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200905230000 -0500" channel="TELEMICRO">
+    <title lang="es">Zona 5</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906000000 -0500" channel="TELEMICRO">
+    <title lang="es">Objetivo 5</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906020000 -0500" channel="TELEMICRO">
+    <title lang="es">Largometraje</title>
+  </programme>
+  <programme start="20200906020000 -0500" stop="20200906060000 -0500" channel="TELEMICRO">
+    <title lang="es">Telemicro</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906070000 -0500" channel="TELEMICRO">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906080000 -0500" channel="TELEMICRO">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200906080000 -0500" stop="20200906090000 -0500" channel="TELEMICRO">
+    <title lang="es">La casa de la risa</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="TELEMICRO">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="TELEMICRO">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="TELEMICRO">
+    <title lang="es">Versión original</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906140000 -0500" channel="TELEMICRO">
+    <title lang="es">Bloque 3, 1a función</title>
+  </programme>
+  <programme start="20200906140000 -0500" stop="20200906160000 -0500" channel="TELEMICRO">
+    <title lang="es">Bloque 3, 2a función</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906180000 -0500" channel="TELEMICRO">
+    <title lang="es">Bloque 3, 3a función</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906190000 -0500" channel="TELEMICRO">
+    <title lang="es">Lo último</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906210000 -0500" channel="TELEMICRO">
+    <title lang="es">Sala 5</title>
+  </programme>
+  <programme start="20200906210000 -0500" stop="20200906230000 -0500" channel="TELEMICRO">
+    <title lang="es">Sala 5</title>
+  </programme>
+  <programme start="20200906230000 -0500" stop="20200907003000 -0500" channel="TELEMICRO">
+    <title lang="es">Mortales</title>
+  </programme>
+  <programme start="20200907003000 -0500" stop="20200907013000 -0500" channel="TELEMICRO">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20200907220000 -0500" stop="20200907230000 -0500" channel="TELEMICRO">
+    <title lang="es">Noticias Telemicro</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904020000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 Meridiano</title>
+  </programme>
+  <programme start="20200904020000 -0500" stop="20200904030000 -0500" channel="ANTENA 7">
+    <title lang="es">Walker</title>
+  </programme>
+  <programme start="20200904030000 -0500" stop="20200904040000 -0500" channel="ANTENA 7">
+    <title lang="es">La vida es una canción</title>
+  </programme>
+  <programme start="20200904040000 -0500" stop="20200904050000 -0500" channel="ANTENA 7">
+    <title lang="es">American Next</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904060000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 Estelar</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904070000 -0500" channel="ANTENA 7">
+    <title lang="es">AN 7 Amanecer</title>
+  </programme>
+  <programme start="20200904070000 -0500" stop="20200904080000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 Actualidad</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904090000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 Revista</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904093000 -0500" channel="ANTENA 7">
+    <title lang="es">Kim possible</title>
+  </programme>
+  <programme start="20200904093000 -0500" stop="20200904100000 -0500" channel="ANTENA 7">
+    <title lang="es">Jake and Never Land</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904103000 -0500" channel="ANTENA 7">
+    <title lang="es">Sofía</title>
+  </programme>
+  <programme start="20200904103000 -0500" stop="20200904110000 -0500" channel="ANTENA 7">
+    <title lang="es">Randy Cunningham</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="ANTENA 7">
+    <title lang="es">La vida es una canción</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904130000 -0500" channel="ANTENA 7">
+    <title lang="es">American's Next Top Model</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904140000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 Meridiano</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904150000 -0500" channel="ANTENA 7">
+    <title lang="es">Amor de contrabando</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="ANTENA 7">
+    <title lang="es">Walker</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="ANTENA 7">
+    <title lang="es">Comisario Rex</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="ANTENA 7">
+    <title lang="es">Alerta para cobra 11</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="ANTENA 7">
+    <title lang="es">Rosa Negra</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="ANTENA 7">
+    <title lang="es">Elif</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="ANTENA 7">
+    <title lang="es">Fugitiva</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="ANTENA 7">
+    <title lang="es">AN7 - 2da. emisión</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="ANTENA 7">
+    <title lang="es">La Venganza de Iffet</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="ANTENA 7">
+    <title lang="es">Mentes Criminales</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905063000 -0500" channel="ANTENA 7">
+    <title lang="es">Iron Kid</title>
+  </programme>
+  <programme start="20200905063000 -0500" stop="20200905070000 -0500" channel="ANTENA 7">
+    <title lang="es">La abeja Maya</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905073000 -0500" channel="ANTENA 7">
+    <title lang="es">Fish Hooks</title>
+  </programme>
+  <programme start="20200905073000 -0500" stop="20200905080000 -0500" channel="ANTENA 7">
+    <title lang="es">Jack and Neverland</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905083000 -0500" channel="ANTENA 7">
+    <title lang="es">Kick Buttowski</title>
+  </programme>
+  <programme start="20200905083000 -0500" stop="20200905090000 -0500" channel="ANTENA 7">
+    <title lang="es">Motorcity</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905093000 -0500" channel="ANTENA 7">
+    <title lang="es">Star vs. the Forces of Evil</title>
+  </programme>
+  <programme start="20200905093000 -0500" stop="20200905100000 -0500" channel="ANTENA 7">
+    <title lang="es">MECH</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="ANTENA 7">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="ANTENA 7">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905130000 -0500" channel="ANTENA 7">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20200905130000 -0500" stop="20200905140000 -0500" channel="ANTENA 7">
+    <title lang="es">No Matarás</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905150000 -0500" channel="ANTENA 7">
+    <title lang="es">Marvel's Agent Carter</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905160000 -0500" channel="ANTENA 7">
+    <title lang="es">Zoo</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905170000 -0500" channel="ANTENA 7">
+    <title lang="es">American Ninja Warriors</title>
+  </programme>
+  <programme start="20200905170000 -0500" stop="20200905180000 -0500" channel="ANTENA 7">
+    <title lang="es">A confirmar</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="ANTENA 7">
+    <title lang="es">Ghost Whisperer</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="ANTENA 7">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905210000 -0500" channel="ANTENA 7">
+    <title lang="es">Macgyver</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905220000 -0500" channel="ANTENA 7">
+    <title lang="es">The Magician</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200905230000 -0500" channel="ANTENA 7">
+    <title lang="es">SEAL Team</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906010000 -0500" channel="ANTENA 7">
+    <title lang="es">Crossing lines</title>
+  </programme>
+  <programme start="20200906010000 -0500" stop="20200906020000 -0500" channel="ANTENA 7">
+    <title lang="es">Enlace gobierno-empresa</title>
+  </programme>
+  <programme start="20200906020000 -0500" stop="20200906030000 -0500" channel="ANTENA 7">
+    <title lang="es">Ghost Whisperer</title>
+  </programme>
+  <programme start="20200906030000 -0500" stop="20200906040000 -0500" channel="ANTENA 7">
+    <title lang="es">Fbi</title>
+  </programme>
+  <programme start="20200906040000 -0500" stop="20200906050000 -0500" channel="ANTENA 7">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20200906050000 -0500" stop="20200906060000 -0500" channel="ANTENA 7">
+    <title lang="es">Guerrero Ninja Americano</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906063000 -0500" channel="ANTENA 7">
+    <title lang="es">Enfoque jurídico</title>
+  </programme>
+  <programme start="20200906073000 -0500" stop="20200906080000 -0500" channel="ANTENA 7">
+    <title lang="es">Tron</title>
+  </programme>
+  <programme start="20200906083000 -0500" stop="20200906090000 -0500" channel="ANTENA 7">
+    <title lang="es">Beyblade Burst</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="ANTENA 7">
+    <title lang="es">Atención, Atención</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="ANTENA 7">
+    <title lang="es">Desafío Extremo</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="ANTENA 7">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906150000 -0500" channel="ANTENA 7">
+    <title lang="es">Aquí se habla español</title>
+  </programme>
+  <programme start="20200906150000 -0500" stop="20200906160000 -0500" channel="ANTENA 7">
+    <title lang="es">Zoo</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906170000 -0500" channel="ANTENA 7">
+    <title lang="es">Una Vía a la Semana</title>
+  </programme>
+  <programme start="20200906170000 -0500" stop="20200906180000 -0500" channel="ANTENA 7">
+    <title lang="es">WWE Smackdown</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906190000 -0500" channel="ANTENA 7">
+    <title lang="es">Ghost Whisperer</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="ANTENA 7">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904013000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Hablando de fé</title>
+  </programme>
+  <programme start="20200904013000 -0500" stop="20200904050000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Programación de la madrugada</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904080000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Hoy Mismo</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904100000 -0500" channel="COLOR VISION HD">
+    <title lang="es">El Despertador</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="COLOR VISION HD">
+    <title lang="es">La promesa</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Clases de cocina con Jacqueline</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904140000 -0500" channel="COLOR VISION HD">
+    <title lang="es">El show del mediodía</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904143000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20200904143000 -0500" stop="20200904150000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Deportes Sin</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904153000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Con los famosos</title>
+  </programme>
+  <programme start="20200904153000 -0500" stop="20200904160000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Community</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Quédate a mi Lado</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="COLOR VISION HD">
+    <title lang="es">La mujer de Judas</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Alas rotas</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias y mucho más</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Esta Noche Mariasela</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="COLOR VISION HD">
+    <title lang="es">The Blacklist</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20200905013000 -0500" stop="20200905053000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Programación de la madrugada</title>
+  </programme>
+  <programme start="20200905053000 -0500" stop="20200905060000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Musical</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Musical</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905080000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Misa y actualidad</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Energía Tv</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias con música</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Conectando</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="COLOR VISION HD">
+    <title lang="es">En forma y economía creativa</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905160000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Pegate y gana con el Pacha</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905180000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Enfasis</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias SIN fin de semana</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905210000 -0500" channel="COLOR VISION HD">
+    <title lang="es">La consulta Dra. Erika Perez</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905223000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Nuria</title>
+  </programme>
+  <programme start="20200905223000 -0500" stop="20200905230000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Me gusta de noche</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906000000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Mckinney</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906010000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Zona Norte</title>
+  </programme>
+  <programme start="20200906010000 -0500" stop="20200906050000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Pegate y gana con el Pacha</title>
+  </programme>
+  <programme start="20200906050000 -0500" stop="20200906060000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Zona Norte</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906070000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Buenas nuevas</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906080000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Espejo 360</title>
+  </programme>
+  <programme start="20200906080000 -0500" stop="20200906090000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Punto de vista</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Lideres</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Aeromundo</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Panorama semanal</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906130000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Breaking Bad</title>
+  </programme>
+  <programme start="20200906130000 -0500" stop="20200906140000 -0500" channel="COLOR VISION HD">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20200906140000 -0500" stop="20200906160000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906180000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906190000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Buscándole un novio a mamá</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="COLOR VISION HD">
+    <title lang="es">Noticias SIN fin de semana</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904013000 -0500" channel="COLOR VISION">
+    <title lang="es">Hablando de fé</title>
+  </programme>
+  <programme start="20200904013000 -0500" stop="20200904050000 -0500" channel="COLOR VISION">
+    <title lang="es">Programación de la madrugada</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904080000 -0500" channel="COLOR VISION">
+    <title lang="es">Hoy Mismo</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904100000 -0500" channel="COLOR VISION">
+    <title lang="es">El Despertador</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="COLOR VISION">
+    <title lang="es">La promesa</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="COLOR VISION">
+    <title lang="es">Clases de cocina con Jacqueline</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904140000 -0500" channel="COLOR VISION">
+    <title lang="es">El show del mediodía</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904143000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20200904143000 -0500" stop="20200904150000 -0500" channel="COLOR VISION">
+    <title lang="es">Deportes Sin</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904153000 -0500" channel="COLOR VISION">
+    <title lang="es">Con los famosos</title>
+  </programme>
+  <programme start="20200904153000 -0500" stop="20200904160000 -0500" channel="COLOR VISION">
+    <title lang="es">Community</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="COLOR VISION">
+    <title lang="es">Quédate a mi Lado</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="COLOR VISION">
+    <title lang="es">La mujer de Judas</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="COLOR VISION">
+    <title lang="es">Alas rotas</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias y mucho más</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="COLOR VISION">
+    <title lang="es">Esta Noche Mariasela</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="COLOR VISION">
+    <title lang="es">The Blacklist</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias Sin</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="COLOR VISION">
+    <title lang="es">Señora Fazilet y sus hijas</title>
+  </programme>
+  <programme start="20200905013000 -0500" stop="20200905053000 -0500" channel="COLOR VISION">
+    <title lang="es">Programación de la madrugada</title>
+  </programme>
+  <programme start="20200905053000 -0500" stop="20200905060000 -0500" channel="COLOR VISION">
+    <title lang="es">Musical</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="COLOR VISION">
+    <title lang="es">Musical</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905080000 -0500" channel="COLOR VISION">
+    <title lang="es">Misa y actualidad</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="COLOR VISION">
+    <title lang="es">Energía Tv</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias con música</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="COLOR VISION">
+    <title lang="es">Conectando</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="COLOR VISION">
+    <title lang="es">En forma y economía creativa</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905160000 -0500" channel="COLOR VISION">
+    <title lang="es">Pegate y gana con el Pacha</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905180000 -0500" channel="COLOR VISION">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="COLOR VISION">
+    <title lang="es">Enfasis</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias SIN fin de semana</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905210000 -0500" channel="COLOR VISION">
+    <title lang="es">La consulta Dra. Erika Perez</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905223000 -0500" channel="COLOR VISION">
+    <title lang="es">Nuria</title>
+  </programme>
+  <programme start="20200905223000 -0500" stop="20200905230000 -0500" channel="COLOR VISION">
+    <title lang="es">Me gusta de noche</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906000000 -0500" channel="COLOR VISION">
+    <title lang="es">Mckinney</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906010000 -0500" channel="COLOR VISION">
+    <title lang="es">Zona Norte</title>
+  </programme>
+  <programme start="20200906010000 -0500" stop="20200906050000 -0500" channel="COLOR VISION">
+    <title lang="es">Pegate y gana con el Pacha</title>
+  </programme>
+  <programme start="20200906050000 -0500" stop="20200906060000 -0500" channel="COLOR VISION">
+    <title lang="es">Zona Norte</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906070000 -0500" channel="COLOR VISION">
+    <title lang="es">Buenas nuevas</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906080000 -0500" channel="COLOR VISION">
+    <title lang="es">Espejo 360</title>
+  </programme>
+  <programme start="20200906080000 -0500" stop="20200906090000 -0500" channel="COLOR VISION">
+    <title lang="es">Punto de vista</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="COLOR VISION">
+    <title lang="es">Lideres</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="COLOR VISION">
+    <title lang="es">Aeromundo</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="COLOR VISION">
+    <title lang="es">Panorama semanal</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906130000 -0500" channel="COLOR VISION">
+    <title lang="es">Breaking Bad</title>
+  </programme>
+  <programme start="20200906130000 -0500" stop="20200906140000 -0500" channel="COLOR VISION">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20200906140000 -0500" stop="20200906160000 -0500" channel="COLOR VISION">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906180000 -0500" channel="COLOR VISION">
+    <title lang="es">Cine 9</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906190000 -0500" channel="COLOR VISION">
+    <title lang="es">Buscándole un novio a mamá</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="COLOR VISION">
+    <title lang="es">Noticias SIN fin de semana</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904020000 -0500" channel="TELESISTEMA">
+    <title lang="es">Querer sin límites</title>
+  </programme>
+  <programme start="20200904020000 -0500" stop="20200904030000 -0500" channel="TELESISTEMA">
+    <title lang="es">Al Otro Lado del Paraíso</title>
+  </programme>
+  <programme start="20200904030000 -0500" stop="20200904040000 -0500" channel="TELESISTEMA">
+    <title lang="es">Al Otro Lado del Paraíso</title>
+  </programme>
+  <programme start="20200904040000 -0500" stop="20200904050000 -0500" channel="TELESISTEMA">
+    <title lang="es">Mujeres al borde</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904053000 -0500" channel="TELESISTEMA">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20200904053000 -0500" stop="20200904060000 -0500" channel="TELESISTEMA">
+    <title lang="es">Tempranito con Consuelo</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904080000 -0500" channel="TELESISTEMA">
+    <title lang="es">El dia</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904090000 -0500" channel="TELESISTEMA">
+    <title lang="es">Telematutino 11</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904100000 -0500" channel="TELESISTEMA">
+    <title lang="es">Con el consumidor</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904103000 -0500" channel="TELESISTEMA">
+    <title lang="es">Avengers the Earth's mighties</title>
+  </programme>
+  <programme start="20200904103000 -0500" stop="20200904110000 -0500" channel="TELESISTEMA">
+    <title lang="es">Phineas and Ferb</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904130000 -0500" channel="TELESISTEMA">
+    <title lang="es">El diario de la princesa 2</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904140000 -0500" channel="TELESISTEMA">
+    <title lang="es">Zumba</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904143000 -0500" channel="TELESISTEMA">
+    <title lang="es">Telenoticias emisión vesp</title>
+  </programme>
+  <programme start="20200904143000 -0500" stop="20200904150000 -0500" channel="TELESISTEMA">
+    <title lang="es">Arte y medio</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="TELESISTEMA">
+    <title lang="es">Club 57</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904163000 -0500" channel="TELESISTEMA">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20200904163000 -0500" stop="20200904170000 -0500" channel="TELESISTEMA">
+    <title lang="es">Shake It Up</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904173000 -0500" channel="TELESISTEMA">
+    <title lang="es">KC Undercover</title>
+  </programme>
+  <programme start="20200904173000 -0500" stop="20200904180000 -0500" channel="TELESISTEMA">
+    <title lang="es">Fear Factor</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190600 -0500" channel="TELESISTEMA">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20200904190600 -0500" stop="20200904200000 -0500" channel="TELESISTEMA">
+    <title lang="es">El final del paraíso</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="TELESISTEMA">
+    <title lang="es">Me robó mi vida</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="TELESISTEMA">
+    <title lang="es">Señora Acero</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="TELESISTEMA">
+    <title lang="es">Pablo Escobar El Patrón</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="TELESISTEMA">
+    <title lang="es">Telenoticias emision estelar</title>
+  </programme>
+  <programme start="20200905030000 -0500" stop="20200905050000 -0500" channel="TELESISTEMA">
+    <title lang="es">Cero excusas</title>
+  </programme>
+  <programme start="20200905050000 -0500" stop="20200905060000 -0500" channel="TELESISTEMA">
+    <title lang="es">Ser Humano</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="TELESISTEMA">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905073000 -0500" channel="TELESISTEMA">
+    <title lang="es">Lilo y Stitch</title>
+  </programme>
+  <programme start="20200905073000 -0500" stop="20200905080000 -0500" channel="TELESISTEMA">
+    <title lang="es">Dientes de lata</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905083000 -0500" channel="TELESISTEMA">
+    <title lang="es">Doc McStuffins</title>
+  </programme>
+  <programme start="20200905083000 -0500" stop="20200905090000 -0500" channel="TELESISTEMA">
+    <title lang="es">Phineas and Ferb</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905093000 -0500" channel="TELESISTEMA">
+    <title lang="es">Fantastic Four Heroes</title>
+  </programme>
+  <programme start="20200905093000 -0500" stop="20200905100000 -0500" channel="TELESISTEMA">
+    <title lang="es">Timon y Pumba</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905103000 -0500" channel="TELESISTEMA">
+    <title lang="es">Notichicos</title>
+  </programme>
+  <programme start="20200905103000 -0500" stop="20200905110000 -0500" channel="TELESISTEMA">
+    <title lang="es">Avengers Assemble</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905113000 -0500" channel="TELESISTEMA">
+    <title lang="es">The super hero squad show</title>
+  </programme>
+  <programme start="20200905113000 -0500" stop="20200905120000 -0500" channel="TELESISTEMA">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905150000 -0500" channel="TELESISTEMA">
+    <title lang="es">Vale por 3</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905170000 -0500" channel="TELESISTEMA">
+    <title lang="es">Tardes de cine</title>
+  </programme>
+  <programme start="20200905170000 -0500" stop="20200905173000 -0500" channel="TELESISTEMA">
+    <title lang="es">Jessie</title>
+  </programme>
+  <programme start="20200905173000 -0500" stop="20200905180000 -0500" channel="TELESISTEMA">
+    <title lang="es">Aaron Stone</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905183000 -0500" channel="TELESISTEMA">
+    <title lang="es">Austin &amp; Ally</title>
+  </programme>
+  <programme start="20200905183000 -0500" stop="20200905190600 -0500" channel="TELESISTEMA">
+    <title lang="es">En Sociedad TV</title>
+  </programme>
+  <programme start="20200905190600 -0500" stop="20200905200000 -0500" channel="TELESISTEMA">
+    <title lang="es">Esta misma semana</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905210000 -0500" channel="TELESISTEMA">
+    <title lang="es">Que chevere es saber</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905230000 -0500" channel="TELESISTEMA">
+    <title lang="es">Cine espectacular</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200905233000 -0500" channel="TELESISTEMA">
+    <title lang="es">Telenoticias fin de semana</title>
+  </programme>
+  <programme start="20200905233000 -0500" stop="20200906003000 -0500" channel="TELESISTEMA">
+    <title lang="es">Mujeres al borde</title>
+  </programme>
+  <programme start="20200906003000 -0500" stop="20200906013000 -0500" channel="TELESISTEMA">
+    <title lang="es">Confabulaciones</title>
+  </programme>
+  <programme start="20200906013000 -0500" stop="20200906023000 -0500" channel="TELESISTEMA">
+    <title lang="es">Esta misma semana</title>
+  </programme>
+  <programme start="20200906023000 -0500" stop="20200906033000 -0500" channel="TELESISTEMA">
+    <title lang="es">Ser Humano</title>
+  </programme>
+  <programme start="20200906033000 -0500" stop="20200906043000 -0500" channel="TELESISTEMA">
+    <title lang="es">Coloquio</title>
+  </programme>
+  <programme start="20200906043000 -0500" stop="20200906053000 -0500" channel="TELESISTEMA">
+    <title lang="es">Mujeres al borde</title>
+  </programme>
+  <programme start="20200906053000 -0500" stop="20200906060000 -0500" channel="TELESISTEMA">
+    <title lang="es">En Sociedad TV</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906063000 -0500" channel="TELESISTEMA">
+    <title lang="es">Lilo y Stitch</title>
+  </programme>
+  <programme start="20200906063000 -0500" stop="20200906070000 -0500" channel="TELESISTEMA">
+    <title lang="es">Lilo y Stitch</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906073000 -0500" channel="TELESISTEMA">
+    <title lang="es">Lilo y Stitch</title>
+  </programme>
+  <programme start="20200906073000 -0500" stop="20200906080000 -0500" channel="TELESISTEMA">
+    <title lang="es">Dientes de lata</title>
+  </programme>
+  <programme start="20200906080000 -0500" stop="20200906090000 -0500" channel="TELESISTEMA">
+    <title lang="es">Propuesta semanal</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="TELESISTEMA">
+    <title lang="es">D'agenda</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906103000 -0500" channel="TELESISTEMA">
+    <title lang="es">Timon y Pumba</title>
+  </programme>
+  <programme start="20200906103000 -0500" stop="20200906110000 -0500" channel="TELESISTEMA">
+    <title lang="es">Avengers Assemble</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906113000 -0500" channel="TELESISTEMA">
+    <title lang="es">The super hero squad show</title>
+  </programme>
+  <programme start="20200906113000 -0500" stop="20200906120000 -0500" channel="TELESISTEMA">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906160000 -0500" channel="TELESISTEMA">
+    <title lang="es">Más Roberto</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906170000 -0500" channel="TELESISTEMA">
+    <title lang="es">Cero excusas</title>
+  </programme>
+  <programme start="20200906170000 -0500" stop="20200906190600 -0500" channel="TELESISTEMA">
+    <title lang="es">La guerra de los sexos</title>
+  </programme>
+  <programme start="20200906190600 -0500" stop="20200906210000 -0500" channel="TELESISTEMA">
+    <title lang="es">Cinema 11</title>
+  </programme>
+  <programme start="20200904013000 -0500" stop="20200904023000 -0500" channel="TELECENTRO">
+    <title lang="es">Noticiero - 2da. emisión</title>
+  </programme>
+  <programme start="20200904023000 -0500" stop="20200904030000 -0500" channel="TELECENTRO">
+    <title lang="es">Noticiero Univisión - Emisión nocturna</title>
+  </programme>
+  <programme start="20200904030000 -0500" stop="20200904050000 -0500" channel="TELECENTRO">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904060000 -0500" channel="TELECENTRO">
+    <title lang="es">A la misma hora</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904080000 -0500" channel="TELECENTRO">
+    <title lang="es">Despierta RD</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904100000 -0500" channel="TELECENTRO">
+    <title lang="es">Hoy</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="TELECENTRO">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="TELECENTRO">
+    <title lang="es">Mi pequeña traviesa</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904140000 -0500" channel="TELECENTRO">
+    <title lang="es">La opción 13.0</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904150000 -0500" channel="TELECENTRO">
+    <title lang="es">Noticiero - 1era. emisión</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="TELECENTRO">
+    <title lang="es">El privilegio de amar</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="TELECENTRO">
+    <title lang="es">Palabra de mujer</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="TELECENTRO">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="TELECENTRO">
+    <title lang="es">Sin pecado concebido</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="TELECENTRO">
+    <title lang="es">Abrazame muy fuerte</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="TELECENTRO">
+    <title lang="es">Noticiero - 2da. emisión</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904213000 -0500" channel="TELECENTRO">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20200904213000 -0500" stop="20200904233000 -0500" channel="TELECENTRO">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200904233000 -0500" stop="20200905013000 -0500" channel="TELECENTRO">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200905030000 -0500" stop="20200905060000 -0500" channel="TELECENTRO">
+    <title lang="es">Veredicto Final</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="TELECENTRO">
+    <title lang="es">El Chapulín Colorado</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905073000 -0500" channel="TELECENTRO">
+    <title lang="es">Chloe's Closet</title>
+  </programme>
+  <programme start="20200905073000 -0500" stop="20200905080000 -0500" channel="TELECENTRO">
+    <title lang="es">Sabrina</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905100000 -0500" channel="TELECENTRO">
+    <title lang="es">El Chavo del Ocho</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905120000 -0500" channel="TELECENTRO">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905140000 -0500" channel="TELECENTRO">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905150000 -0500" channel="TELECENTRO">
+    <title lang="es">Cronicas de sábado</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905160000 -0500" channel="TELECENTRO">
+    <title lang="es">Aquí &amp; ahora</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905180000 -0500" channel="TELECENTRO">
+    <title lang="es">Película de la tarde</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="TELECENTRO">
+    <title lang="es">Los Pecados de Bárbara</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="TELECENTRO">
+    <title lang="es">Cuna de lobos</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905220000 -0500" channel="TELECENTRO">
+    <title lang="es">Sábados de película</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200906000000 -0500" channel="TELECENTRO">
+    <title lang="es">Sábados de película</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906060000 -0500" channel="TELECENTRO">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906063000 -0500" channel="TELECENTRO">
+    <title lang="es">The Twisted Whiskers Show</title>
+  </programme>
+  <programme start="20200906063000 -0500" stop="20200906070000 -0500" channel="TELECENTRO">
+    <title lang="es">Le Petit Nicolas</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906073000 -0500" channel="TELECENTRO">
+    <title lang="es">Cleo &amp; Cuquín Familia Telerín</title>
+  </programme>
+  <programme start="20200906073000 -0500" stop="20200906083000 -0500" channel="TELECENTRO">
+    <title lang="es">El chavo animado</title>
+  </programme>
+  <programme start="20200906083000 -0500" stop="20200906090000 -0500" channel="TELECENTRO">
+    <title lang="es">Los Davincibles</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="TELECENTRO">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="TELECENTRO">
+    <title lang="es">Al Punto</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="TELECENTRO">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906180000 -0500" channel="TELECENTRO">
+    <title lang="es">Tripletazo de películas</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906200000 -0500" channel="TELECENTRO">
+    <title lang="es">Reto 4 Elementos</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904090000 -0500" channel="DIGITAL 15">
+    <title lang="es">La opción de la mañana</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904100000 -0500" channel="DIGITAL 15">
+    <title lang="es">La revista del 15</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904120000 -0500" channel="DIGITAL 15">
+    <title lang="es">La belleza es mia</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904160000 -0500" channel="DIGITAL 15">
+    <title lang="es">De Extremo a Extremo</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904170000 -0500" channel="DIGITAL 15">
+    <title lang="es">Los dueños del circo</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="DIGITAL 15">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="DIGITAL 15">
+    <title lang="es">Propuesta de la noche</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904210000 -0500" channel="DIGITAL 15">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="DIGITAL 15">
+    <title lang="es">Dogma</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="DIGITAL 15">
+    <title lang="es">El mega show</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="DIGITAL 15">
+    <title lang="es">QTV</title>
+  </programme>
+  <programme start="20200905000000 -0500" stop="20200905060000 -0500" channel="DIGITAL 15">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905080000 -0500" channel="DIGITAL 15">
+    <title lang="es">Yoryi internacional</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="DIGITAL 15">
+    <title lang="es">0 es 3</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="DIGITAL 15">
+    <title lang="es">Hablando derecho</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="DIGITAL 15">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="DIGITAL 15">
+    <title lang="es">¿Y ahora qué hago</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905130000 -0500" channel="DIGITAL 15">
+    <title lang="es">Doble Cara</title>
+  </programme>
+  <programme start="20200905130000 -0500" stop="20200905140000 -0500" channel="DIGITAL 15">
+    <title lang="es">Mi pueblo por dentro</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905150000 -0500" channel="DIGITAL 15">
+    <title lang="es">Música digital</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905160000 -0500" channel="DIGITAL 15">
+    <title lang="es">El corazón de la medicina</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905180000 -0500" channel="DIGITAL 15">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="DIGITAL 15">
+    <title lang="es">Los héroes del norte</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905210000 -0500" channel="DIGITAL 15">
+    <title lang="es">Hazme reir y serás millonario</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905220000 -0500" channel="DIGITAL 15">
+    <title lang="es">Mil historias</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200905230000 -0500" channel="DIGITAL 15">
+    <title lang="es">Dime a ver</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906000000 -0500" channel="DIGITAL 15">
+    <title lang="es">Audiencia electronica</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906010000 -0500" channel="DIGITAL 15">
+    <title lang="es">Objetivo 5</title>
+  </programme>
+  <programme start="20200906010000 -0500" stop="20200906070000 -0500" channel="DIGITAL 15">
+    <title lang="es">Bloque de repeticiones</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906080000 -0500" channel="DIGITAL 15">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20200906080000 -0500" stop="20200906090000 -0500" channel="DIGITAL 15">
+    <title lang="es">Principalmente</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="DIGITAL 15">
+    <title lang="es">A raja tabla</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906103000 -0500" channel="DIGITAL 15">
+    <title lang="es">La voz del tribunal</title>
+  </programme>
+  <programme start="20200906103000 -0500" stop="20200906110000 -0500" channel="DIGITAL 15">
+    <title lang="es">Constitucional</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="DIGITAL 15">
+    <title lang="es">Desafios en Tv</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906150000 -0500" channel="DIGITAL 15">
+    <title lang="es">Aki e la cosa</title>
+  </programme>
+  <programme start="20200906150000 -0500" stop="20200906170000 -0500" channel="DIGITAL 15">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200906170000 -0500" stop="20200906190000 -0500" channel="DIGITAL 15">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="DIGITAL 15">
+    <title lang="es">Tras la verdad</title>
+  </programme>
+  <programme start="20200904003000 -0500" stop="20200904050000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Retrasmisión programas</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904080000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">La revista</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904085500 -0500" channel="TELEUNIVERSO">
+    <title lang="es">El cafecito</title>
+  </programme>
+  <programme start="20200904085500 -0500" stop="20200904100000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Retrasmisión programas</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904113000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Como en casa</title>
+  </programme>
+  <programme start="20200904113000 -0500" stop="20200904124500 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Ustedes y nosotros</title>
+  </programme>
+  <programme start="20200904124500 -0500" stop="20200904125500 -0500" channel="TELEUNIVERSO">
+    <title lang="es">El comentario del Dr. Leonardo Aguilera</title>
+  </programme>
+  <programme start="20200904125500 -0500" stop="20200904130000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Loto real</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904143000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Teleuniverso al día</title>
+  </programme>
+  <programme start="20200904143000 -0500" stop="20200904150000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">A todo color Claudio</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904153000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Info-deportivas</title>
+  </programme>
+  <programme start="20200904153000 -0500" stop="20200904160000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Zona Trending</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904163000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Por aire, mar y tierra</title>
+  </programme>
+  <programme start="20200904163000 -0500" stop="20200904170000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Venga la tarde</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Entre amigos</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Puntos y enfoques</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Panorámica</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904220000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Buena noche</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904223000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Noticiero Universal</title>
+  </programme>
+  <programme start="20200904223000 -0500" stop="20200905003000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Las noches con Bélgica</title>
+  </programme>
+  <programme start="20200905003000 -0500" stop="20200905060000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Retrasmisión programas</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905070000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Comunicación y vida</title>
+  </programme>
+  <programme start="20200905070000 -0500" stop="20200905080000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Contrapropuesta</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905090000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Santiago Oeste en marcha</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">La casita de Payamin</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Pasando visita</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905130000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Circo deportivo</title>
+  </programme>
+  <programme start="20200905130000 -0500" stop="20200905140000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Rolling TV</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905150000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">ITrending</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905170000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Francisco muy diferente</title>
+  </programme>
+  <programme start="20200905170000 -0500" stop="20200905180000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">El mundo de las computadoras</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905190000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Marianela Contigo</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905210000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Mi show</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905220000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Gente</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200905230000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Doctor Corazón</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906000000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Hoy con William Sánchez</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906010000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Análisis político</title>
+  </programme>
+  <programme start="20200906010000 -0500" stop="20200906060000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Retransmisión programación</title>
+  </programme>
+  <programme start="20200906060000 -0500" stop="20200906070000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Misa dominical</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906090000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Repasando</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906100000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Naturaleza viva</title>
+  </programme>
+  <programme start="20200906100000 -0500" stop="20200906110000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Misa desde la catedral</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">La voz del tribunal constitucional</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906130000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Marco noticioso</title>
+  </programme>
+  <programme start="20200906130000 -0500" stop="20200906140000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Ruta ganadera</title>
+  </programme>
+  <programme start="20200906140000 -0500" stop="20200906150000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Impacto total IWA</title>
+  </programme>
+  <programme start="20200906150000 -0500" stop="20200906153000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Más que pelota</title>
+  </programme>
+  <programme start="20200906153000 -0500" stop="20200906160000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906170000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">UASD TV</title>
+  </programme>
+  <programme start="20200906170000 -0500" stop="20200906180000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">La llave TV Show</title>
+  </programme>
+  <programme start="20200906180000 -0500" stop="20200906190000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Añoranzas</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="TELEUNIVERSO">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904020000 -0500" channel="CDN37">
+    <title lang="es">Resumen final</title>
+  </programme>
+  <programme start="20200904020000 -0500" stop="20200904030000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200904030000 -0500" stop="20200904040000 -0500" channel="CDN37">
+    <title lang="es">Resumen final</title>
+  </programme>
+  <programme start="20200904040000 -0500" stop="20200904050000 -0500" channel="CDN37">
+    <title lang="es">Enfoque final</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904060000 -0500" channel="CDN37">
+    <title lang="es">Edición nocturna</title>
+  </programme>
+  <programme start="20200904060000 -0500" stop="20200904070000 -0500" channel="CDN37">
+    <title lang="es">Noticias 6 AM</title>
+  </programme>
+  <programme start="20200904070000 -0500" stop="20200904090000 -0500" channel="CDN37">
+    <title lang="es">Despierta con CDN</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904100000 -0500" channel="CDN37">
+    <title lang="es">Consultando</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="CDN37">
+    <title lang="es">Saber del Sabor</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904130000 -0500" channel="CDN37">
+    <title lang="es">Noticias ahora</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904143000 -0500" channel="CDN37">
+    <title lang="es">Jose Gutierrez en CDN</title>
+  </programme>
+  <programme start="20200904143000 -0500" stop="20200904150000 -0500" channel="CDN37">
+    <title lang="es">Ahora Más</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="CDN37">
+    <title lang="es">Tú Opinas en CDN</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904163000 -0500" channel="CDN37">
+    <title lang="es">Famosos Inside</title>
+  </programme>
+  <programme start="20200904163000 -0500" stop="20200904170000 -0500" channel="CDN37">
+    <title lang="es">Agenda mundial</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904173000 -0500" channel="CDN37">
+    <title lang="es">Agenda noticiosa</title>
+  </programme>
+  <programme start="20200904173000 -0500" stop="20200904180000 -0500" channel="CDN37">
+    <title lang="es">Agenda mundial</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="CDN37">
+    <title lang="es">Mas que noticias - Especial</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="CDN37">
+    <title lang="es">Red de noticias</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904205500 -0500" channel="CDN37">
+    <title lang="es">Lilith en CDN</title>
+  </programme>
+  <programme start="20200904205500 -0500" stop="20200904210000 -0500" channel="CDN37">
+    <title lang="es">Loto de Leidsa</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904220000 -0500" channel="CDN37">
+    <title lang="es">Enfoque final</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200904230000 -0500" channel="CDN37">
+    <title lang="es">Edición nocturna</title>
+  </programme>
+  <programme start="20200904230000 -0500" stop="20200905000000 -0500" channel="CDN37">
+    <title lang="es">Resumen final</title>
+  </programme>
+  <programme start="20200905000000 -0500" stop="20200905010000 -0500" channel="CDN37">
+    <title lang="es">Y entonces</title>
+  </programme>
+  <programme start="20200905010000 -0500" stop="20200905020000 -0500" channel="CDN37">
+    <title lang="es">Enfoque final</title>
+  </programme>
+  <programme start="20200905020000 -0500" stop="20200905030000 -0500" channel="CDN37">
+    <title lang="es">Resumen final</title>
+  </programme>
+  <programme start="20200905030000 -0500" stop="20200905040000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200905060000 -0500" stop="20200905063000 -0500" channel="CDN37">
+    <title lang="es">Famosos Inside</title>
+  </programme>
+  <programme start="20200905063000 -0500" stop="20200905073000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200905073000 -0500" stop="20200905083000 -0500" channel="CDN37">
+    <title lang="es">Jose Gutierrez en CDN</title>
+  </programme>
+  <programme start="20200905083000 -0500" stop="20200905090000 -0500" channel="CDN37">
+    <title lang="es">Informe Kliksberg</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905100000 -0500" channel="CDN37">
+    <title lang="es">Palabra y vida</title>
+  </programme>
+  <programme start="20200905100000 -0500" stop="20200905110000 -0500" channel="CDN37">
+    <title lang="es">Verdades al aire</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905120000 -0500" channel="CDN37">
+    <title lang="es">Careo</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905123000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200905123000 -0500" stop="20200905130000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200905130000 -0500" stop="20200905140000 -0500" channel="CDN37">
+    <title lang="es">JG fin de semana</title>
+  </programme>
+  <programme start="20200905140000 -0500" stop="20200905143000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200905143000 -0500" stop="20200905150000 -0500" channel="CDN37">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200905150000 -0500" stop="20200905153000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200905153000 -0500" stop="20200905160000 -0500" channel="CDN37">
+    <title lang="es">Foro interamericano</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905170000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200905170000 -0500" stop="20200905173000 -0500" channel="CDN37">
+    <title lang="es">Agenda climática</title>
+  </programme>
+  <programme start="20200905173000 -0500" stop="20200905180000 -0500" channel="CDN37">
+    <title lang="es">Informe Kliksberg</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905183000 -0500" channel="CDN37">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200905183000 -0500" stop="20200905190000 -0500" channel="CDN37">
+    <title lang="es">Foro interamericano</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200905200000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200905200000 -0500" stop="20200905203000 -0500" channel="CDN37">
+    <title lang="es">Informe Kliksberg</title>
+  </programme>
+  <programme start="20200905203000 -0500" stop="20200905205500 -0500" channel="CDN37">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200905210000 -0500" stop="20200905220000 -0500" channel="CDN37">
+    <title lang="es">De sumo interés</title>
+  </programme>
+  <programme start="20200905220000 -0500" stop="20200905230000 -0500" channel="CDN37">
+    <title lang="es">Verdades al aire</title>
+  </programme>
+  <programme start="20200905230000 -0500" stop="20200906010000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200906230000 -0500" stop="20200907010000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907010000 -0500" stop="20200907013000 -0500" channel="CDN37">
+    <title lang="es">Informe Kliksberg</title>
+  </programme>
+  <programme start="20200907013000 -0500" stop="20200907023000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907023000 -0500" stop="20200907030000 -0500" channel="CDN37">
+    <title lang="es">Agenda climática</title>
+  </programme>
+  <programme start="20200907030000 -0500" stop="20200907040000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907040000 -0500" stop="20200907043000 -0500" channel="CDN37">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200907043000 -0500" stop="20200907053000 -0500" channel="CDN37">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20200907053000 -0500" stop="20200907063000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907063000 -0500" stop="20200907073000 -0500" channel="CDN37">
+    <title lang="es">Conversando con mi arzobispo</title>
+  </programme>
+  <programme start="20200907073000 -0500" stop="20200907080000 -0500" channel="CDN37">
+    <title lang="es">Agenda climática</title>
+  </programme>
+  <programme start="20200907080000 -0500" stop="20200907090000 -0500" channel="CDN37">
+    <title lang="es">Noticiario</title>
+  </programme>
+  <programme start="20200907090000 -0500" stop="20200907093000 -0500" channel="CDN37">
+    <title lang="es">Sano encuentro</title>
+  </programme>
+  <programme start="20200907093000 -0500" stop="20200907100000 -0500" channel="CDN37">
+    <title lang="es">Vivir en salud</title>
+  </programme>
+  <programme start="20200907100000 -0500" stop="20200907110000 -0500" channel="CDN37">
+    <title lang="es">Esfera global</title>
+  </programme>
+  <programme start="20200907110000 -0500" stop="20200907120000 -0500" channel="CDN37">
+    <title lang="es">Finjus</title>
+  </programme>
+  <programme start="20200907130000 -0500" stop="20200907133000 -0500" channel="CDN37">
+    <title lang="es">Foro interamericano</title>
+  </programme>
+  <programme start="20200907133000 -0500" stop="20200907140000 -0500" channel="CDN37">
+    <title lang="es">Global 3000</title>
+  </programme>
+  <programme start="20200907140000 -0500" stop="20200907143000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907143000 -0500" stop="20200907153000 -0500" channel="CDN37">
+    <title lang="es">Especial - Más que noticias</title>
+  </programme>
+  <programme start="20200907153000 -0500" stop="20200907160000 -0500" channel="CDN37">
+    <title lang="es">Noticiario CDN - Fin de semana</title>
+  </programme>
+  <programme start="20200907160000 -0500" stop="20200907170000 -0500" channel="CDN37">
+    <title lang="es">Mister Deportes</title>
+  </programme>
+  <programme start="20200907170000 -0500" stop="20200907173000 -0500" channel="CDN37">
+    <title lang="es">Informe Kliksberg</title>
+  </programme>
+  <programme start="20200907173000 -0500" stop="20200907175500 -0500" channel="CDN37">
+    <title lang="es">Agenda climática</title>
+  </programme>
+  <programme start="20200907175500 -0500" stop="20200907180000 -0500" channel="CDN37">
+    <title lang="es">Loto de Leidsa</title>
+  </programme>
+  <programme start="20200907180000 -0500" stop="20200907190000 -0500" channel="CDN37">
+    <title lang="es">Fórmula 1 al límite</title>
+  </programme>
+  <programme start="20200904003000 -0500" stop="20200904010000 -0500" channel="TELEUNION">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20200904010000 -0500" stop="20200904023000 -0500" channel="TELEUNION">
+    <title lang="es">El Bastión Internacional</title>
+  </programme>
+  <programme start="20200904023000 -0500" stop="20200904043000 -0500" channel="TELEUNION">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20200904043000 -0500" stop="20200904050000 -0500" channel="TELEUNION">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20200904050000 -0500" stop="20200904070000 -0500" channel="TELEUNION">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20200904070000 -0500" stop="20200904080000 -0500" channel="TELEUNION">
+    <title lang="es">Entre noticias y comentarios</title>
+  </programme>
+  <programme start="20200904080000 -0500" stop="20200904090000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200904090000 -0500" stop="20200904100000 -0500" channel="TELEUNION">
+    <title lang="es">Convivencia tv</title>
+  </programme>
+  <programme start="20200904100000 -0500" stop="20200904110000 -0500" channel="TELEUNION">
+    <title lang="es">De ahora AM</title>
+  </programme>
+  <programme start="20200904110000 -0500" stop="20200904120000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200904120000 -0500" stop="20200904130000 -0500" channel="TELEUNION">
+    <title lang="es">De ahora con Jose Cerda</title>
+  </programme>
+  <programme start="20200904130000 -0500" stop="20200904133000 -0500" channel="TELEUNION">
+    <title lang="es">Concavo y convexo</title>
+  </programme>
+  <programme start="20200904133000 -0500" stop="20200904140000 -0500" channel="TELEUNION">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20200904140000 -0500" stop="20200904150000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200904150000 -0500" stop="20200904160000 -0500" channel="TELEUNION">
+    <title lang="es">El reportero</title>
+  </programme>
+  <programme start="20200904160000 -0500" stop="20200904163000 -0500" channel="TELEUNION">
+    <title lang="es">Lo que pasó hoy</title>
+  </programme>
+  <programme start="20200904163000 -0500" stop="20200904170000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200904170000 -0500" stop="20200904180000 -0500" channel="TELEUNION">
+    <title lang="es">El Bastión Internacional</title>
+  </programme>
+  <programme start="20200904180000 -0500" stop="20200904190000 -0500" channel="TELEUNION">
+    <title lang="es">Acontecimiento</title>
+  </programme>
+  <programme start="20200904190000 -0500" stop="20200904200000 -0500" channel="TELEUNION">
+    <title lang="es">Hablan los municipios</title>
+  </programme>
+  <programme start="20200904200000 -0500" stop="20200904210000 -0500" channel="TELEUNION">
+    <title lang="es">Alejandro en coche</title>
+  </programme>
+  <programme start="20200904210000 -0500" stop="20200904213000 -0500" channel="TELEUNION">
+    <title lang="es">Noticias Teleunión</title>
+  </programme>
+  <programme start="20200904213000 -0500" stop="20200904220000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200904220000 -0500" stop="20200905000000 -0500" channel="TELEUNION">
+    <title lang="es">Detrás de la noticia</title>
+  </programme>
+  <programme start="20200905050000 -0500" stop="20200905080000 -0500" channel="TELEUNION">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20200905080000 -0500" stop="20200905083000 -0500" channel="TELEUNION">
+    <title lang="es">Acis TV</title>
+  </programme>
+  <programme start="20200905083000 -0500" stop="20200905090000 -0500" channel="TELEUNION">
+    <title lang="es">Cam informativo</title>
+  </programme>
+  <programme start="20200905090000 -0500" stop="20200905110000 -0500" channel="TELEUNION">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200905110000 -0500" stop="20200905113000 -0500" channel="TELEUNION">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200905113000 -0500" stop="20200905120000 -0500" channel="TELEUNION">
+    <title lang="es">Cam informativo</title>
+  </programme>
+  <programme start="20200905120000 -0500" stop="20200905160000 -0500" channel="TELEUNION">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200905160000 -0500" stop="20200905170000 -0500" channel="TELEUNION">
+    <title lang="es">Acis TV</title>
+  </programme>
+  <programme start="20200905170000 -0500" stop="20200905180000 -0500" channel="TELEUNION">
+    <title lang="es">De todo y algo mas</title>
+  </programme>
+  <programme start="20200905180000 -0500" stop="20200905183000 -0500" channel="TELEUNION">
+    <title lang="es">Share TV</title>
+  </programme>
+  <programme start="20200905183000 -0500" stop="20200905190000 -0500" channel="TELEUNION">
+    <title lang="es">Cam informativo</title>
+  </programme>
+  <programme start="20200905190000 -0500" stop="20200906000000 -0500" channel="TELEUNION">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200906000000 -0500" stop="20200906050000 -0500" channel="TELEUNION">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200906050000 -0500" stop="20200906070000 -0500" channel="TELEUNION">
+    <title lang="es">Documentales</title>
+  </programme>
+  <programme start="20200906070000 -0500" stop="20200906080000 -0500" channel="TELEUNION">
+    <title lang="es">Acis TV</title>
+  </programme>
+  <programme start="20200906090000 -0500" stop="20200906110000 -0500" channel="TELEUNION">
+    <title lang="es">Musicales</title>
+  </programme>
+  <programme start="20200906110000 -0500" stop="20200906120000 -0500" channel="TELEUNION">
+    <title lang="es">Justicia y sociedad</title>
+  </programme>
+  <programme start="20200906120000 -0500" stop="20200906130000 -0500" channel="TELEUNION">
+    <title lang="es">Comunicación y vida</title>
+  </programme>
+  <programme start="20200906130000 -0500" stop="20200906140000 -0500" channel="TELEUNION">
+    <title lang="es">Peliculas</title>
+  </programme>
+  <programme start="20200906140000 -0500" stop="20200906150000 -0500" channel="TELEUNION">
+    <title lang="es">El poder de la linea noroeste</title>
+  </programme>
+  <programme start="20200906150000 -0500" stop="20200906160000 -0500" channel="TELEUNION">
+    <title lang="es">Análisis político</title>
+  </programme>
+  <programme start="20200906160000 -0500" stop="20200906190000 -0500" channel="TELEUNION">
+    <title lang="es">Tv cine</title>
+  </programme>
+  <programme start="20200906190000 -0500" stop="20200906200000 -0500" channel="TELEUNION">
+    <title lang="es">Perfectas</title>
+  </programme>
+</tv>
